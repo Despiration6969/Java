@@ -1,0 +1,13 @@
+T1: User1: Successfully registered as a Borrower at 2021-03-22
+T2: User1: Successfully borrowed Book1 at 2021-03-22
+T2: User1: Successfully borrowed Book1 at 2021-03-22
+T1: User2: Successfully registered as a Borrower at 2021-03-22
+T2: User2: Successfully borrowed Pen at 2021-03-22
+T3: User2: Successfully return Pen At 2021-03-22
+T2: User2: Successfully borrowed Pencil at 2021-03-22
+T4: User2: Successfully extended Pencil for another 2 weeks at 2021-03-22
+T3: User2: Successfully return Pencil At 2021-04-06
+T2: User2: Successfully borrowed Book1 at 2021-04-06
+T2: User2: Successfully borrowed book2 at 2021-03-22
+T3: User2: Successfully return book2 but come with a fine of RM17 At 2021-04-22
+T3: User2: Successfully return book2 At 2021-04-22
